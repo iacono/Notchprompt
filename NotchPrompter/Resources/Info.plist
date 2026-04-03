@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Notchprompt</string>
+	<key>CFBundleDisplayName</key>
+	<string>Notchprompt</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.marco.Notchprompt</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleExecutable</key>
+	<string>NotchPrompter</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Notchprompt uses the microphone to detect speech for automatic scrolling.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Marco. All rights reserved.</string>
+</dict>
+</plist>
